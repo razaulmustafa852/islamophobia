@@ -6,7 +6,7 @@
 |---|---|
 | **Mohammedans** are incompatible with Western Society!!! **Mohammedans** need to be sent back to their **Mohammedan** shitholes!!! | Mohammedan |
 | The **mudslimes** of the Indian subcontinent are the most subhuman. Arab/MENA Muslims are very civilized in comparison. | Mudslime |
-| i'd rather take a ride on the challenger than fly with a **muzrat** as pilot, lmao. | Muzrat [Awan, 2016](#references) |
+| i'd rather take a ride on the challenger than fly with a **muzrat** as pilot, lmao. | Muzrat |
 | Can’t wait till Europeans go full Reconquista and force every **pislam** worshipper to convert or get deported. | Pislam |
 | **muzzies** outbreed whites it doesn't matter they'll just make more **mudslimes** | Muzzies |
 
