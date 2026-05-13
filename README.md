@@ -1,3 +1,5 @@
+# Decoding Islamophobic Discourse: Using LLMs to Identify Tropes and Semi-Coded Hate Speech
+
 ## Semi-coded (OOV) Terms and Their Use on Extremist Social Platforms
 
 > **Content warning:** The examples below contain hateful/extremist language and are included only for academic analysis of semi-coded out-of-vocabulary terms.
