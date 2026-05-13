@@ -27,3 +27,17 @@
 | I do not own anything **pislam** in my home, and I would burn it if I did. | 1 | The text shows extreme hate speech towards Muslims. The author uses the derogatory term **pislam** to insult Islam and suggests burning any related objects in their home. |
 | Their **Mohammedan** friends will give them a quick boost at the start. | 0.1 | This text does not contain clear hate speech or strong negativity. The term **Mohammedan** is outdated and may be considered disrespectful because it incorrectly implies that Muslims worship Muhammad. However, in this context, it does not appear to be used with harmful intent. |
 | France will probably be the first country to fall to the **mohammedan** wretches. | 0.9 | This text is a clear example of hate speech. It uses derogatory language such as “wretches” to dehumanize and demean Muslims and promotes a negative framing of Muslims. |
+
+
+
+
+## Toxicity Samples from the Highest-Frequency Words of Antisemitism and Islamophobia
+
+> **Content warning:** The examples below contain hateful/extremist language and are included only for academic analysis.
+
+| Category | Text | Toxicity Score |
+|---|---|---:|
+| Antisemitism | the liberal world order also known a globalists the cabal and the zionist ha declared full war on america and on any christian conservative nation hungary poland russia brazil or we fight and defeat them once and for all or we become their slave | 0.37 |
+| Antisemitism | why would our zionist occupied government arrest one of their own | 0.30 |
+| Islamophobia | Every time a church burns... Burn every mosque in the country and deport every raghead in the country | 0.65 |
+| Islamophobia | All the shitskins playing shitskin olympics, I hate all of you equally and want you all out of my country | 0.90 |
