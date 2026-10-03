@@ -1,3 +1,13 @@
+# LLM Scripts and Dataset Availability
+
+The scripts used for the LLM-based analysis, along with the associated data, are available upon reasonable request.
+
+Researchers interested in obtaining the **LLM scripts and/or data** used in this study may contact the authors by email. Please include a brief description of the requested materials and the intended research use.
+
+**Contact:**  
+Please contact the corresponding author at the email address provided in the paper.
+
+The materials are provided for **academic and research purposes** and may be subject to applicable data-use, privacy, or redistribution restrictions.
 
 ## Semi-coded (OOV) Terms and Their Use on Extremist Social Platforms
 
